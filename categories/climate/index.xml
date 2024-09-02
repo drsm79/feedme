@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate on My News Aggregator</title>
-    <link>http://localhost:49407/categories/climate/</link>
+    <link>https://example.org/categories/climate/</link>
     <description>Recent content in Climate on My News Aggregator</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 02 Sep 2024 16:07:51 +0000</lastBuildDate>
-    <atom:link href="http://localhost:49407/categories/climate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/climate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In photos: Bristol’s climate news – August 2024</title>
-      <link>http://localhost:49407/articles/in-photos-bristols-climate-news-august-2024/</link>
+      <link>https://example.org/articles/in-photos-bristols-climate-news-august-2024/</link>
       <pubDate>Mon, 02 Sep 2024 16:07:51 +0000</pubDate>
-      <guid>http://localhost:49407/articles/in-photos-bristols-climate-news-august-2024/</guid>
+      <guid>https://example.org/articles/in-photos-bristols-climate-news-august-2024/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;In photos: Bristol’s climate news – August 2024&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
   </channel>

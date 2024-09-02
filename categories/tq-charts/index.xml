@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tq-Charts on My News Aggregator</title>
-    <link>http://localhost:49407/categories/tq-charts/</link>
+    <link>https://example.org/categories/tq-charts/</link>
     <description>Recent content in Tq-Charts on My News Aggregator</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 30 Aug 2024 16:48:07 +0000</lastBuildDate>
-    <atom:link href="http://localhost:49407/categories/tq-charts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/tq-charts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music of the Month: The Best Albums and Tracks of August 2024</title>
-      <link>http://localhost:49407/articles/music-of-the-month-the-best-albums-and-tracks-of-august-2024/</link>
+      <link>https://example.org/articles/music-of-the-month-the-best-albums-and-tracks-of-august-2024/</link>
       <pubDate>Fri, 30 Aug 2024 16:48:07 +0000</pubDate>
-      <guid>http://localhost:49407/articles/music-of-the-month-the-best-albums-and-tracks-of-august-2024/</guid>
+      <guid>https://example.org/articles/music-of-the-month-the-best-albums-and-tracks-of-august-2024/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;tQ&amp;rsquo;s staffers select the very finest new albums and tracks released this August, from Welsh-language goth brilliance to almighty dub</description>
     </item>
   </channel>

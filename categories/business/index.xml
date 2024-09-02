@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business on My News Aggregator</title>
-    <link>http://localhost:49407/categories/business/</link>
+    <link>https://example.org/categories/business/</link>
     <description>Recent content in Business on My News Aggregator</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 02 Sep 2024 13:53:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:49407/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Outstanding A Level results for boomsatsuma’s creative arts students</title>
-      <link>http://localhost:49407/articles/outstanding-a-level-results-for-boomsatsumas-creative-arts-students/</link>
+      <link>https://example.org/articles/outstanding-a-level-results-for-boomsatsumas-creative-arts-students/</link>
       <pubDate>Mon, 02 Sep 2024 13:53:52 +0000</pubDate>
-      <guid>http://localhost:49407/articles/outstanding-a-level-results-for-boomsatsumas-creative-arts-students/</guid>
+      <guid>https://example.org/articles/outstanding-a-level-results-for-boomsatsumas-creative-arts-students/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;Outstanding A Level results for boomsatsuma’s creative arts students&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
     <item>
       <title>Badminton School students celebrate stellar A Level results</title>
-      <link>http://localhost:49407/articles/badminton-school-students-celebrate-stellar-a-level-results/</link>
+      <link>https://example.org/articles/badminton-school-students-celebrate-stellar-a-level-results/</link>
       <pubDate>Mon, 02 Sep 2024 12:55:38 +0000</pubDate>
-      <guid>http://localhost:49407/articles/badminton-school-students-celebrate-stellar-a-level-results/</guid>
+      <guid>https://example.org/articles/badminton-school-students-celebrate-stellar-a-level-results/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;Badminton School students celebrate stellar A Level results&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
   </channel>
