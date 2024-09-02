@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opinion-and-Essays on My News Feed</title>
-    <link>http://localhost:59548/categories/opinion-and-essays/</link>
-    <description>Recent content in Opinion-and-Essays on My News Feed</description>
+    <title>Opinion-and-Essays on My News Aggregator</title>
+    <link>http://localhost:63905/categories/opinion-and-essays/</link>
+    <description>Recent content in Opinion-and-Essays on My News Aggregator</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 02 Sep 2024 07:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59548/categories/opinion-and-essays/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63905/categories/opinion-and-essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lakeland Echoes: Wind, Rock, Fell, Rain &amp; Sea Power’s Krankenhaus</title>
-      <link>http://localhost:59548/articles/lakeland-echoes-wind-rock-fell-rain-sea-powers-krankenhaus/</link>
+      <link>http://localhost:63905/articles/lakeland-echoes-wind-rock-fell-rain-sea-powers-krankenhaus/</link>
       <pubDate>Mon, 02 Sep 2024 07:00:00 +0000</pubDate>
-      <guid>http://localhost:59548/articles/lakeland-echoes-wind-rock-fell-rain-sea-powers-krankenhaus/</guid>
+      <guid>http://localhost:63905/articles/lakeland-echoes-wind-rock-fell-rain-sea-powers-krankenhaus/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;In the latest edition of our new column, Luke Turner reflects on the connection between Sea Power and the music of the landscape that surrounds their Krankenhaus festival. Photos by Paul Hudson of Down At The Front except Esk pics by Luke Turner.</description>
     </item>
     <item>
       <title>What We Do With What We Have: Björk’s Medúlla Turns 20</title>
-      <link>http://localhost:59548/articles/what-we-do-with-what-we-have-bjorks-medulla-turns-20/</link>
+      <link>http://localhost:63905/articles/what-we-do-with-what-we-have-bjorks-medulla-turns-20/</link>
       <pubDate>Fri, 30 Aug 2024 08:30:00 +0000</pubDate>
-      <guid>http://localhost:59548/articles/what-we-do-with-what-we-have-bjorks-medulla-turns-20/</guid>
+      <guid>http://localhost:63905/articles/what-we-do-with-what-we-have-bjorks-medulla-turns-20/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;Medúlla is arguably the point at which Björk turned from creating pop to a journey into the radically obscure, but in reality it is one of the most fully realised examples of an artist pushing the boundaries of what pop music can be and do, writes Matthew Barton</description>
     </item>
     <item>
       <title>There Are No Horizons: Manic Street Preachers’ The Holy Bible Turns 30</title>
-      <link>http://localhost:59548/articles/there-are-no-horizons-manic-street-preachers-the-holy-bible-turns-30/</link>
+      <link>http://localhost:63905/articles/there-are-no-horizons-manic-street-preachers-the-holy-bible-turns-30/</link>
       <pubDate>Fri, 30 Aug 2024 08:00:00 +0000</pubDate>
-      <guid>http://localhost:59548/articles/there-are-no-horizons-manic-street-preachers-the-holy-bible-turns-30/</guid>
+      <guid>http://localhost:63905/articles/there-are-no-horizons-manic-street-preachers-the-holy-bible-turns-30/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;Taylor Parkes picks through the bones of one of the best rock albums of the 1990s and the artistic apex of Manic Street Preachers&amp;rsquo; history. This feature was first published on December 11, 2014</description>
     </item>
     <item>
       <title>The Labels Shaping a New Ukrainian Underground Part 2: Money, Money, Money…</title>
-      <link>http://localhost:59548/articles/the-labels-shaping-a-new-ukrainian-underground-part-2-money-money-money/</link>
+      <link>http://localhost:63905/articles/the-labels-shaping-a-new-ukrainian-underground-part-2-money-money-money/</link>
       <pubDate>Thu, 29 Aug 2024 08:00:00 +0000</pubDate>
-      <guid>http://localhost:59548/articles/the-labels-shaping-a-new-ukrainian-underground-part-2-money-money-money/</guid>
+      <guid>http://localhost:63905/articles/the-labels-shaping-a-new-ukrainian-underground-part-2-money-money-money/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;In the latest edition of New Voices Ukraine, tQ&amp;rsquo;s new collaboration with 20ft Radio, Neformat, the British Council and Ukrainian Institute, Yaryna Denysyuk of Neformat, Yaryna Denysyuk continues her look into Ukrainian DIY record labels. Having surveyed those attempting utopian collective approaches in part one, this time she examines the unavoidable downsides of running a label during wartime</description>
     </item>
   </channel>

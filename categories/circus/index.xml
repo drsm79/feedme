@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Circus on My News Feed</title>
-    <link>http://localhost:59548/categories/circus/</link>
-    <description>Recent content in Circus on My News Feed</description>
+    <title>Circus on My News Aggregator</title>
+    <link>http://localhost:63905/categories/circus/</link>
+    <description>Recent content in Circus on My News Aggregator</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 02 Sep 2024 15:20:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59548/categories/circus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63905/categories/circus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doorstep Circus comes to Knowle West</title>
-      <link>http://localhost:59548/articles/doorstep-circus-comes-to-knowle-west/</link>
+      <link>http://localhost:63905/articles/doorstep-circus-comes-to-knowle-west/</link>
       <pubDate>Mon, 02 Sep 2024 15:20:56 +0000</pubDate>
-      <guid>http://localhost:59548/articles/doorstep-circus-comes-to-knowle-west/</guid>
+      <guid>http://localhost:63905/articles/doorstep-circus-comes-to-knowle-west/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;Doorstep Circus comes to Knowle West&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
   </channel>
