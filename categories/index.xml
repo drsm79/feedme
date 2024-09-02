@@ -2,94 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My News Feed</title>
-    <link>http://localhost:56814/categories/</link>
+    <link>http://localhost:59548/categories/</link>
     <description>Recent content in Categories on My News Feed</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 02 Sep 2024 15:20:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:56814/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 16:02:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59548/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:59548/categories/news/</link>
+      <pubDate>Mon, 02 Sep 2024 16:02:06 +0000</pubDate>
+      <guid>http://localhost:59548/categories/news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Circus</title>
-      <link>http://localhost:56814/categories/circus/</link>
+      <link>http://localhost:59548/categories/circus/</link>
       <pubDate>Mon, 02 Sep 2024 15:20:56 +0000</pubDate>
-      <guid>http://localhost:56814/categories/circus/</guid>
+      <guid>http://localhost:59548/categories/circus/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>http://localhost:56814/categories/culture/</link>
+      <link>http://localhost:59548/categories/culture/</link>
       <pubDate>Mon, 02 Sep 2024 15:20:56 +0000</pubDate>
-      <guid>http://localhost:56814/categories/culture/</guid>
+      <guid>http://localhost:59548/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Local</title>
-      <link>http://localhost:56814/categories/local/</link>
+      <link>http://localhost:59548/categories/local/</link>
       <pubDate>Mon, 02 Sep 2024 15:20:56 +0000</pubDate>
-      <guid>http://localhost:56814/categories/local/</guid>
+      <guid>http://localhost:59548/categories/local/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:56814/categories/music/</link>
+      <link>http://localhost:59548/categories/music/</link>
       <pubDate>Mon, 02 Sep 2024 15:20:36 +0000</pubDate>
-      <guid>http://localhost:56814/categories/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>http://localhost:56814/categories/news/</link>
-      <pubDate>Mon, 02 Sep 2024 15:09:36 +0000</pubDate>
-      <guid>http://localhost:56814/categories/news/</guid>
+      <guid>http://localhost:59548/categories/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Features-Food-and-Drink</title>
-      <link>http://localhost:56814/categories/features-food-and-drink/</link>
+      <link>http://localhost:59548/categories/features-food-and-drink/</link>
       <pubDate>Mon, 02 Sep 2024 15:09:10 +0000</pubDate>
-      <guid>http://localhost:56814/categories/features-food-and-drink/</guid>
+      <guid>http://localhost:59548/categories/features-food-and-drink/</guid>
       <description></description>
     </item>
     <item>
       <title>Food-and-Drink</title>
-      <link>http://localhost:56814/categories/food-and-drink/</link>
+      <link>http://localhost:59548/categories/food-and-drink/</link>
       <pubDate>Mon, 02 Sep 2024 15:09:10 +0000</pubDate>
-      <guid>http://localhost:56814/categories/food-and-drink/</guid>
+      <guid>http://localhost:59548/categories/food-and-drink/</guid>
       <description></description>
     </item>
     <item>
       <title>Interest</title>
-      <link>http://localhost:56814/categories/interest/</link>
+      <link>http://localhost:59548/categories/interest/</link>
       <pubDate>Mon, 02 Sep 2024 14:47:26 +0000</pubDate>
-      <guid>http://localhost:56814/categories/interest/</guid>
+      <guid>http://localhost:59548/categories/interest/</guid>
       <description></description>
     </item>
     <item>
       <title>Better-Business</title>
-      <link>http://localhost:56814/categories/better-business/</link>
+      <link>http://localhost:59548/categories/better-business/</link>
       <pubDate>Mon, 02 Sep 2024 13:53:52 +0000</pubDate>
-      <guid>http://localhost:56814/categories/better-business/</guid>
+      <guid>http://localhost:59548/categories/better-business/</guid>
       <description></description>
     </item>
     <item>
       <title>Business</title>
-      <link>http://localhost:56814/categories/business/</link>
+      <link>http://localhost:59548/categories/business/</link>
       <pubDate>Mon, 02 Sep 2024 13:53:52 +0000</pubDate>
-      <guid>http://localhost:56814/categories/business/</guid>
+      <guid>http://localhost:59548/categories/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Features-Festivals</title>
-      <link>http://localhost:56814/categories/features-festivals/</link>
+      <link>http://localhost:59548/categories/features-festivals/</link>
       <pubDate>Mon, 02 Sep 2024 12:49:58 +0000</pubDate>
-      <guid>http://localhost:56814/categories/features-festivals/</guid>
+      <guid>http://localhost:59548/categories/features-festivals/</guid>
       <description></description>
     </item>
     <item>
       <title>Festivals</title>
-      <link>http://localhost:56814/categories/festivals/</link>
+      <link>http://localhost:59548/categories/festivals/</link>
       <pubDate>Mon, 02 Sep 2024 12:49:58 +0000</pubDate>
-      <guid>http://localhost:56814/categories/festivals/</guid>
+      <guid>http://localhost:59548/categories/festivals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quietus-Reviews</title>
+      <link>http://localhost:59548/categories/quietus-reviews/</link>
+      <pubDate>Mon, 02 Sep 2024 08:17:42 +0000</pubDate>
+      <guid>http://localhost:59548/categories/quietus-reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion-and-Essays</title>
+      <link>http://localhost:59548/categories/opinion-and-essays/</link>
+      <pubDate>Mon, 02 Sep 2024 07:00:00 +0000</pubDate>
+      <guid>http://localhost:59548/categories/opinion-and-essays/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Subscriber-Area</title>
+      <link>http://localhost:59548/categories/subscriber-area/</link>
+      <pubDate>Fri, 30 Aug 2024 17:00:06 +0000</pubDate>
+      <guid>http://localhost:59548/categories/subscriber-area/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tq-Charts</title>
+      <link>http://localhost:59548/categories/tq-charts/</link>
+      <pubDate>Fri, 30 Aug 2024 16:48:07 +0000</pubDate>
+      <guid>http://localhost:59548/categories/tq-charts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interviews</title>
+      <link>http://localhost:59548/categories/interviews/</link>
+      <pubDate>Thu, 29 Aug 2024 09:41:52 +0000</pubDate>
+      <guid>http://localhost:59548/categories/interviews/</guid>
       <description></description>
     </item>
   </channel>

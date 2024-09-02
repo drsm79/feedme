@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on My News Feed</title>
+    <link>http://localhost:59548/categories/interviews/</link>
+    <description>Recent content in Interviews on My News Feed</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 29 Aug 2024 09:41:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59548/categories/interviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oasisters: Meet Liam &amp; Noel’s 21st Century Female Fan Army</title>
+      <link>http://localhost:59548/articles/oasisters-meet-liam-noels-21st-century-female-fan-army/</link>
+      <pubDate>Thu, 29 Aug 2024 09:41:52 +0000</pubDate>
+      <guid>http://localhost:59548/articles/oasisters-meet-liam-noels-21st-century-female-fan-army/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;On the anniversary of Definitely Maybe and news of comeback gigs, author Anna Doble, speaks to a new generation of young women who are getting ready to show the world that Oasis belong to them. Main picture: a selfie by Bella Perozzi</description>
+    </item>
+    <item>
+      <title>Ritual, Hypnosis and Drone: Richard Norris’ Favourite Albums</title>
+      <link>http://localhost:59548/articles/ritual-hypnosis-and-drone-richard-norris-favourite-albums/</link>
+      <pubDate>Wed, 28 Aug 2024 12:18:16 +0000</pubDate>
+      <guid>http://localhost:59548/articles/ritual-hypnosis-and-drone-richard-norris-favourite-albums/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;With both The Grid and Beyond The Wizard’s Sleeve back in action, and new memoir Strange Things Are Happening out now, Richard Norris takes Patrick Clarke through an eclectic 13 records that have defined his life in music</description>
+    </item>
+  </channel>
+</rss>
