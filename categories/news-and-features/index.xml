@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News-and-Features on My News Aggregator</title>
-    <link>http://localhost:63905/categories/news-and-features/</link>
+    <link>http://localhost:49407/categories/news-and-features/</link>
     <description>Recent content in News-and-Features on My News Aggregator</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 02 Sep 2024 16:24:45 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63905/categories/news-and-features/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49407/categories/news-and-features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New LEGO store to open in Bristol</title>
-      <link>http://localhost:63905/articles/new-lego-store-to-open-in-bristol/</link>
+      <link>http://localhost:49407/articles/new-lego-store-to-open-in-bristol/</link>
       <pubDate>Mon, 02 Sep 2024 16:24:45 +0000</pubDate>
-      <guid>http://localhost:63905/articles/new-lego-store-to-open-in-bristol/</guid>
+      <guid>http://localhost:49407/articles/new-lego-store-to-open-in-bristol/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;New LEGO store to open in Bristol&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
     <item>
       <title>‘I didn’t cease being a Black man when I became mayor’</title>
-      <link>http://localhost:63905/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</link>
+      <link>http://localhost:49407/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</link>
       <pubDate>Mon, 02 Sep 2024 16:14:38 +0000</pubDate>
-      <guid>http://localhost:63905/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</guid>
+      <guid>http://localhost:49407/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;‘I didn’t cease being a Black man when I became mayor’&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
     <item>
       <title>Violence plaguing city centre neighbourhood</title>
-      <link>http://localhost:63905/articles/violence-plaguing-city-centre-neighbourhood/</link>
+      <link>http://localhost:49407/articles/violence-plaguing-city-centre-neighbourhood/</link>
       <pubDate>Mon, 02 Sep 2024 16:02:55 +0000</pubDate>
-      <guid>http://localhost:63905/articles/violence-plaguing-city-centre-neighbourhood/</guid>
+      <guid>http://localhost:49407/articles/violence-plaguing-city-centre-neighbourhood/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;Violence plaguing city centre neighbourhood&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
   </channel>
