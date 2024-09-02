@@ -1,0 +1,4 @@
+cachetools
+feedparser
+Flask
+opengraph-py3

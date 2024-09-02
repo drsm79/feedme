@@ -1,0 +1,18 @@
+<!doctype html>
+<title>FeedMe</title>
+<script src="https://cdn.tailwindcss.com"></script>
+
+<div class="grid gap-4 place-items-center w-full">
+  <header>
+    {% block header %}{% endblock %}
+  </header>
+  {% for message in get_flashed_messages() %}
+  <div class="flash">{{ message }}</div>
+  {% endfor %}
+
+  <div class="grid md:grid-cols-2 gap-4 place-items-stretch w-2/3 p-4">
+    {% block content %}{% endblock %}
+  </div>
+  <footer>
+    {% block footer %}{% endblock %}</footer>
+</div>
