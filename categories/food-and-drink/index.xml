@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food-and-Drink on My News Aggregator</title>
-    <link>https://example.org/categories/food-and-drink/</link>
+    <link>https://metsonet.co.uk/feedme/categories/food-and-drink/</link>
     <description>Recent content in Food-and-Drink on My News Aggregator</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 02 Sep 2024 15:09:10 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/food-and-drink/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://metsonet.co.uk/feedme/categories/food-and-drink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A decade of decadence at Ahh Toots</title>
-      <link>https://example.org/articles/a-decade-of-decadence-at-ahh-toots/</link>
+      <link>https://metsonet.co.uk/feedme/articles/a-decade-of-decadence-at-ahh-toots/</link>
       <pubDate>Mon, 02 Sep 2024 15:09:10 +0000</pubDate>
-      <guid>https://example.org/articles/a-decade-of-decadence-at-ahh-toots/</guid>
+      <guid>https://metsonet.co.uk/feedme/articles/a-decade-of-decadence-at-ahh-toots/</guid>
       <description>The post &lt;!-- raw HTML omitted --&gt;A decade of decadence at Ahh Toots&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
   </channel>
