@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My News Feed</title>
+    <link>http://localhost:56814/categories/</link>
+    <description>Recent content in Categories on My News Feed</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 02 Sep 2024 15:20:56 +0000</lastBuildDate>
+    <atom:link href="http://localhost:56814/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Circus</title>
+      <link>http://localhost:56814/categories/circus/</link>
+      <pubDate>Mon, 02 Sep 2024 15:20:56 +0000</pubDate>
+      <guid>http://localhost:56814/categories/circus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:56814/categories/culture/</link>
+      <pubDate>Mon, 02 Sep 2024 15:20:56 +0000</pubDate>
+      <guid>http://localhost:56814/categories/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local</title>
+      <link>http://localhost:56814/categories/local/</link>
+      <pubDate>Mon, 02 Sep 2024 15:20:56 +0000</pubDate>
+      <guid>http://localhost:56814/categories/local/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:56814/categories/music/</link>
+      <pubDate>Mon, 02 Sep 2024 15:20:36 +0000</pubDate>
+      <guid>http://localhost:56814/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:56814/categories/news/</link>
+      <pubDate>Mon, 02 Sep 2024 15:09:36 +0000</pubDate>
+      <guid>http://localhost:56814/categories/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features-Food-and-Drink</title>
+      <link>http://localhost:56814/categories/features-food-and-drink/</link>
+      <pubDate>Mon, 02 Sep 2024 15:09:10 +0000</pubDate>
+      <guid>http://localhost:56814/categories/features-food-and-drink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food-and-Drink</title>
+      <link>http://localhost:56814/categories/food-and-drink/</link>
+      <pubDate>Mon, 02 Sep 2024 15:09:10 +0000</pubDate>
+      <guid>http://localhost:56814/categories/food-and-drink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interest</title>
+      <link>http://localhost:56814/categories/interest/</link>
+      <pubDate>Mon, 02 Sep 2024 14:47:26 +0000</pubDate>
+      <guid>http://localhost:56814/categories/interest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Better-Business</title>
+      <link>http://localhost:56814/categories/better-business/</link>
+      <pubDate>Mon, 02 Sep 2024 13:53:52 +0000</pubDate>
+      <guid>http://localhost:56814/categories/better-business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>http://localhost:56814/categories/business/</link>
+      <pubDate>Mon, 02 Sep 2024 13:53:52 +0000</pubDate>
+      <guid>http://localhost:56814/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features-Festivals</title>
+      <link>http://localhost:56814/categories/features-festivals/</link>
+      <pubDate>Mon, 02 Sep 2024 12:49:58 +0000</pubDate>
+      <guid>http://localhost:56814/categories/features-festivals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Festivals</title>
+      <link>http://localhost:56814/categories/festivals/</link>
+      <pubDate>Mon, 02 Sep 2024 12:49:58 +0000</pubDate>
+      <guid>http://localhost:56814/categories/festivals/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
