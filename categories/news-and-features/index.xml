@@ -1,33 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News-and-Features on My News Aggregator</title>
+    <title>news-and-features on My News Aggregator</title>
     <link>https://metsonet.co.uk/feedme/categories/news-and-features/</link>
-    <description>Recent content in News-and-Features on My News Aggregator</description>
-    <generator>Hugo</generator>
+    <description>Recent content in news-and-features on My News Aggregator</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 02 Sep 2024 16:24:45 +0000</lastBuildDate>
-    <atom:link href="https://metsonet.co.uk/feedme/categories/news-and-features/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2024 06:11:36 +0000</lastBuildDate><atom:link href="https://metsonet.co.uk/feedme/categories/news-and-features/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New LEGO store to open in Bristol</title>
-      <link>https://metsonet.co.uk/feedme/articles/new-lego-store-to-open-in-bristol/</link>
-      <pubDate>Mon, 02 Sep 2024 16:24:45 +0000</pubDate>
-      <guid>https://metsonet.co.uk/feedme/articles/new-lego-store-to-open-in-bristol/</guid>
-      <description>The post &lt;!-- raw HTML omitted --&gt;New LEGO store to open in Bristol&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
+      <title>Workman dies after wall collapses</title>
+      <link>https://metsonet.co.uk/feedme/articles/workman-dies-after-wall-collapses/</link>
+      <pubDate>Thu, 05 Sep 2024 06:11:36 +0000</pubDate>
+      
+      <guid>https://metsonet.co.uk/feedme/articles/workman-dies-after-wall-collapses/</guid>
+      <description>The post &lt;!-- raw HTML omitted --&gt;Workman dies after wall collapses&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
+    
     <item>
-      <title>‘I didn’t cease being a Black man when I became mayor’</title>
-      <link>https://metsonet.co.uk/feedme/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</link>
-      <pubDate>Mon, 02 Sep 2024 16:14:38 +0000</pubDate>
-      <guid>https://metsonet.co.uk/feedme/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</guid>
-      <description>The post &lt;!-- raw HTML omitted --&gt;‘I didn’t cease being a Black man when I became mayor’&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
+      <title>Demands for an independent inquiry into Gaza aid worker’s death</title>
+      <link>https://metsonet.co.uk/feedme/articles/demands-for-an-independent-inquiry-into-gaza-aid-workers-death/</link>
+      <pubDate>Wed, 04 Sep 2024 17:19:36 +0000</pubDate>
+      
+      <guid>https://metsonet.co.uk/feedme/articles/demands-for-an-independent-inquiry-into-gaza-aid-workers-death/</guid>
+      <description>The post &lt;!-- raw HTML omitted --&gt;Demands for an independent inquiry into Gaza aid worker’s death&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
     </item>
+    
     <item>
-      <title>Violence plaguing city centre neighbourhood</title>
-      <link>https://metsonet.co.uk/feedme/articles/violence-plaguing-city-centre-neighbourhood/</link>
-      <pubDate>Mon, 02 Sep 2024 16:02:55 +0000</pubDate>
-      <guid>https://metsonet.co.uk/feedme/articles/violence-plaguing-city-centre-neighbourhood/</guid>
-      <description>The post &lt;!-- raw HTML omitted --&gt;Violence plaguing city centre neighbourhood&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
+      <title>10 Questions: Dan Norris – ‘It is vital public transport in Bristol and across the West of England improves at pace’</title>
+      <link>https://metsonet.co.uk/feedme/articles/10-questions-dan-norris-it-is-vital-public-transport-in-bristol-and-across-the-west-of-england-improves-at-pace/</link>
+      <pubDate>Wed, 04 Sep 2024 14:46:56 +0000</pubDate>
+      
+      <guid>https://metsonet.co.uk/feedme/articles/10-questions-dan-norris-it-is-vital-public-transport-in-bristol-and-across-the-west-of-england-improves-at-pace/</guid>
+      <description>Dan Norris has been metro mayor for the West of England since 2021 and plans to serve until at least 2025. As mayor he leads the West of England Combined Authority which makes important decisions on transport, housing, the environment&amp;hellip;</description>
     </item>
+    
+    <item>
+      <title>Could the River Frome reappear from underneath the Centre?</title>
+      <link>https://metsonet.co.uk/feedme/articles/could-the-river-frome-reappear-from-underneath-the-centre/</link>
+      <pubDate>Wed, 04 Sep 2024 14:34:21 +0000</pubDate>
+      
+      <guid>https://metsonet.co.uk/feedme/articles/could-the-river-frome-reappear-from-underneath-the-centre/</guid>
+      <description>The post &lt;!-- raw HTML omitted --&gt;Could the River Frome reappear from underneath the Centre?&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
+    </item>
+    
   </channel>
 </rss>

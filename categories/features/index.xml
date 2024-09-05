@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Features on My News Aggregator</title>
+    <title>features on My News Aggregator</title>
     <link>https://metsonet.co.uk/feedme/categories/features/</link>
-    <description>Recent content in Features on My News Aggregator</description>
-    <generator>Hugo</generator>
+    <description>Recent content in features on My News Aggregator</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 02 Sep 2024 16:14:38 +0000</lastBuildDate>
-    <atom:link href="https://metsonet.co.uk/feedme/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Sep 2024 14:46:56 +0000</lastBuildDate><atom:link href="https://metsonet.co.uk/feedme/categories/features/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>‘I didn’t cease being a Black man when I became mayor’</title>
-      <link>https://metsonet.co.uk/feedme/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</link>
-      <pubDate>Mon, 02 Sep 2024 16:14:38 +0000</pubDate>
-      <guid>https://metsonet.co.uk/feedme/articles/i-didnt-cease-being-a-black-man-when-i-became-mayor/</guid>
-      <description>The post &lt;!-- raw HTML omitted --&gt;‘I didn’t cease being a Black man when I became mayor’&lt;!-- raw HTML omitted --&gt; appeared first on &lt;!-- raw HTML omitted --&gt;Bristol24/7&lt;!-- raw HTML omitted --&gt;.</description>
+      <title>10 Questions: Dan Norris – ‘It is vital public transport in Bristol and across the West of England improves at pace’</title>
+      <link>https://metsonet.co.uk/feedme/articles/10-questions-dan-norris-it-is-vital-public-transport-in-bristol-and-across-the-west-of-england-improves-at-pace/</link>
+      <pubDate>Wed, 04 Sep 2024 14:46:56 +0000</pubDate>
+      
+      <guid>https://metsonet.co.uk/feedme/articles/10-questions-dan-norris-it-is-vital-public-transport-in-bristol-and-across-the-west-of-england-improves-at-pace/</guid>
+      <description>Dan Norris has been metro mayor for the West of England since 2021 and plans to serve until at least 2025. As mayor he leads the West of England Combined Authority which makes important decisions on transport, housing, the environment&amp;hellip;</description>
     </item>
+    
   </channel>
 </rss>
