@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/drsm79/code/feedme/fedhugo",
+	"sourceRoot": "/home/drsm79/feedme/fedhugo",
 	"sources": [
 		"themes/newsroom/assets/sass/main.sass",
 		"themes/newsroom/assets/sass/_variables.sass",
